@@ -1,0 +1,108 @@
+body {
+  height: 100%;
+}
+
+.nav-item:hover{background-color: black;}
+
+.pk{
+  background: url("bk.jpg");
+}
+.img{
+    height: 2rem;
+   
+}
+.imgq{
+  height: 2rem;
+  margin-top: 0%;
+  clip-path: circle();
+}
+
+.img1{
+  height: 2rem;
+  margin-top: 0%;
+  clip-path: circle();
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.java{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+
+
+.ad{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+
+.php{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+.python{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+
+
+.c{
+    height: 2rem;
+    clip-path: circle();   
+    margin-left: 6.5%;  
+}
+.cpp{
+  height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%; 
+}
+.cs{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 10%;
+}
+.js{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+.mysql{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+.html{
+   height: 2rem;  
+  clip-path: circle();
+  margin-left: 5%;
+}
+.oracle{
+  height: 2rem;  
+  border-radius: 10px;
+  margin-left: 5%;
+}
+
+.rounded-pill{
+  clip-path: circle();
+}
+
+.a{
+   height: 2rem;  
+  clip-path: circle();
+}
+
+.a2{
+   height: 2rem;  
+}
+
+.a3{
+   height: 2rem;  
+  clip-path: circle();
+}
